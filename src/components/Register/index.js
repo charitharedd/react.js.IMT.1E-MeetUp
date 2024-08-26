@@ -1,4 +1,4 @@
-mport Header from '../Header'
+import Header from '../Header'
 
 import RegisterContext from '../../context/RegisterContext'
 
